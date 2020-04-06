@@ -1,0 +1,1 @@
+This is Acustaoglu's first git project!
